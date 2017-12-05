@@ -36,6 +36,8 @@ int Pop(LinkStack *S, int *e)
     S->count--;
     return 1;
 
+// git status
+
 //    LinkStackPtr p;
 //    if(S->count = 0)
 //    {
