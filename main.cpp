@@ -56,6 +56,11 @@ bool StackEmpty(LinkStack *S)
     return false;
 }
 
+int CountOfStack(LinkStack *S)
+{
+    return S->count;
+}
+
 
 int main()
 {
